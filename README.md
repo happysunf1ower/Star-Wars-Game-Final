@@ -1,1 +1,3 @@
-# Star-Wars-Game-Final
+Star Wars Game
+
+Luke Skywalker needs your help! While trying to corrupt the Sith government, he has gotten himself trapped on the Imperial Death Star. Without him, the Force is unbalanced and the natural ways of the universe and shifting. You must learn to be a Jedi in order to save the New Galactic Republic. Call on your Allies! Ignite your lightsaber! Only with supplies, stealth and sacrifice shall you bring the balance back to the Force! 
